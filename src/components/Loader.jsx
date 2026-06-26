@@ -173,7 +173,7 @@ const Loader = () => {
         </div>
         <div className="text-center">
           <h1 className="font-logo text-xl sm:text-2xl md:text-3xl lg:text-4xl tracking-[0.08em] text-primary loader-title">
-            BE KIND BAKERY &amp; CONFECTIONARY
+            IRENE BAKES
           </h1>
         </div>
       </div>

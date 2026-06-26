@@ -19,7 +19,7 @@ export default function Hero({ onOrder, bakeryPhotos }) {
               className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-primary/10 border border-primary/20 text-primary text-xs tracking-wider uppercase font-medium mb-6"
             >
               <span className="w-1.5 h-1.5 rounded-full bg-primary" />
-              Laitumkhrah, Shillong
+              Madanrting, Shillong
             </motion.p>
             <motion.h1
               initial={{ opacity: 0, y: 30 }}
@@ -35,7 +35,7 @@ export default function Hero({ onOrder, bakeryPhotos }) {
               transition={{ duration: 0.8, delay: 0.6 }}
               className="mt-6 text-base md:text-lg text-muted-foreground max-w-md leading-relaxed"
             >
-              Fresh cakes, pastries, and baked goods in Laitumkhrah, Shillong. Affordable treats for every occasion.
+              Fresh cakes, pastries, and baked goods in Madanrting, Shillong. Affordable treats for every occasion.
             </motion.p>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
@@ -56,7 +56,7 @@ export default function Hero({ onOrder, bakeryPhotos }) {
               transition={{ duration: 0.8, delay: 1 }}
               className="mt-10 flex items-center gap-6 text-xs text-muted-foreground"
             >
-              <span>098632 57903</span>
+              <span>+91 89743 67122</span>
               <span>Takeaway</span>
             </motion.div>
           </motion.div>

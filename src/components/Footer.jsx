@@ -3,8 +3,8 @@ export default function Footer() {
     <footer className="border-t border-primary/20 px-6 py-8 md:py-12 bg-white/50">
       <div className="mx-auto max-w-6xl flex flex-col md:flex-row items-center justify-between gap-4 md:gap-6">
         <div className="text-center md:text-left">
-          <p className="font-logo text-lg sm:text-xl md:text-2xl text-primary tracking-wide">B.J Bakery</p>
-          <p className="text-[10px] md:text-xs text-muted-foreground mt-0.5">Laitumkhrah, Shillong</p>
+          <p className="font-logo text-lg sm:text-xl md:text-2xl text-primary tracking-wide">Irene Bakes</p>
+          <p className="text-[10px] md:text-xs text-muted-foreground mt-0.5">Madanrting, Shillong</p>
         </div>
         <div className="flex gap-4 md:gap-6 text-[10px] md:text-xs text-muted-foreground">
           <a href="#about" className="hover:text-primary transition-colors">About</a>
@@ -14,7 +14,7 @@ export default function Footer() {
           <a href="#contact" className="hover:text-primary transition-colors">Contact</a>
         </div>
         <p className="text-[10px] md:text-xs text-muted-foreground text-center md:text-right">
-          &copy; {new Date().getFullYear()} B.J Bakery
+          &copy; {new Date().getFullYear()} Irene Bakes
         </p>
       </div>
     </footer>

@@ -29,7 +29,7 @@ export default function About() {
             <div className="mt-6 space-y-4 text-muted-foreground text-sm md:text-base leading-relaxed">
               <p>
                 <WordReveal delay={0.2}>
-                  Located in Laitumkhrah, Shillong, B.J Bakery brings you fresh, affordable baked goods made with quality ingredients and a whole lot of love.
+                  Located in Madanrting, Shillong, Irene Bakes brings you fresh, affordable baked goods made with quality ingredients and a whole lot of love.
                 </WordReveal>
               </p>
               <p>
@@ -39,7 +39,7 @@ export default function About() {
               </p>
               <p>
                 <WordReveal delay={0.6}>
-                  Whether you are stopping by for a quick sweet treat, ordering a custom cake for a celebration, or just exploring — you will always find something delicious at B.J Bakery.
+                  Whether you are stopping by for a quick sweet treat, ordering a custom cake for a celebration, or just exploring — you will always find something delicious at Irene Bakes.
                 </WordReveal>
               </p>
             </div>

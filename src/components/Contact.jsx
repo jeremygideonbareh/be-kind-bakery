@@ -94,9 +94,9 @@ export default function Contact({ onOrder }) {
             className="rounded-xl overflow-hidden border border-primary/10 h-[250px] md:h-[400px] shadow-sm"
           >
             <iframe
-              src={`https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3597.08!2d${contactInfo.lng}!3d${contactInfo.lat}!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37507fdc7f511a11%3A0x11868b45f6c37895!2sB.J%20Bakery!5e0!3m2!1sen!2sin!4v1`}
+              src={`https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3597.08!2d${contactInfo.lng}!3d${contactInfo.lat}!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37507ea558429ff9%3A0x6ce34687bb29a3fa!2sIrene%20Bakes!5e0!3m2!1sen!2sin!4v1`}
               width="100%" height="100%" style={{ border: 0 }} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade"
-              title="B.J Bakery location"
+              title="Irene Bakes location"
             />
           </motion.div>
         </div>

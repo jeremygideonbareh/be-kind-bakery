@@ -39,11 +39,11 @@ export const reviews = [
 ]
 
 export const contactInfo = {
-  address: 'B J Bakery, Laitumkhrah, Shillong, Meghalaya 793014',
-  phone: '098632 57903',
-  hours: 'Mon–Sat: 11:00 AM – 9:00 PM\nSunday: Closed',
-  services: 'Takeaway · Google Pay',
-  mapsQuery: 'B.J+Bakery+Laitumkhrah+Shillong',
-  lat: 25.563729,
-  lng: 91.906785,
+  address: 'Irene Bakes, Madanrting, Thembasuk, Block F, Shillong, Meghalaya 793021',
+  phone: '+91 89743 67122',
+  hours: 'Mon–Sat: 10:00 AM – 8:00 PM\nSunday: Closed',
+  services: 'Takeaway · Home Delivery · Google Pay',
+  mapsQuery: 'Madanrting+Thembasuk+Block+F+Shillong',
+  lat: 25.5528,
+  lng: 91.8912,
 }
