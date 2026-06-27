@@ -7,7 +7,7 @@ export const bakeryPhotos = [
   'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=800&q=80',
   'https://images.unsplash.com/photo-1571115177098-24ec42ed204d?w=800&q=80',
   'https://images.unsplash.com/photo-1558301211-0d8c8ddee6ec?w=600&q=80',
-  'https://images.unsplash.com/photo-1486427944544-d2c246c4db3f?w=800&q=85',
+  'https://images.unsplash.com/photo-1509365465985-25d11c17e812?w=800&q=85',
   'https://images.unsplash.com/photo-1550547660-d9450f859349?w=600&q=80',
 ]
 
